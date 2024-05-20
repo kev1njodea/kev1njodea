@@ -4,11 +4,8 @@
 
 ### "Home" Lab
 
-| Cloudflare   | AWS Lightsail Instance 1       |   AWS Lightsail Instance 2       |
-|--------------|--------------------------------|----------------------------------|
-| SSL/TLS      | Debian 12 Bookworm             | Amazon Linux 2023                |
-| DNS          | 2 GB Memory                    | 2 GB Memory                      |
-|              | 2 vCPUs Processing             | 2 vCPUs Processing               |
-|              | 60 GB SSD Storage              | 60 GB SSD Storage                |
-|              | Docker Engine                  | Docker Engine                    |
-|              | Red Discord bot, other             | Traefik Reverse Proxy, Web server |
+| Local          | Cloudflare | AWS Lightsail Instance [1]                                        | AWS Lightsail Instance [2]                                |
+|----------------|------------|-------------------------------------------------------------------|-----------------------------------------------------------|
+| Win11          | SSL/TLS    | Debian 12 Bookworm                                                | Amazon Linux 2023                                         |
+|                | DNS        | 2GB/2vCPU/60GB                                     | 2GB/2vCPU/60GB                             |
+| - vscode<br>- Docker Engine<br>- WSL2/Ubuntu               |            | - vscode-server<br>- Docker Engine<br>- Red Discord bot<br>- Experimental | - vscode-server<br>- Docker Engine<br>- Traefik Reverse Proxy<br>- Redmine<br>- rclone<br>- littlelink-server |
