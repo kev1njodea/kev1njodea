@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, I'm Kev. Listed below are some of my skills and projects.
+Hi, I'm Kev! Listed below are some of my skills and projects.
 
 [![Skills](https://skillicons.dev/icons?i=ansible,apple,aws,azure,bash,cloudflare,debian,discord,bots,docker,git,github,gitlab,grafana,kali,linux,md,mysql,nginx,postgres,powershell,py,rails,raspberrypi,redhat,ruby,terraform,ubuntu,vscode,windows)](https://skillicons.dev)
 
