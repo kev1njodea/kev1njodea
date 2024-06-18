@@ -6,8 +6,8 @@ Hi, I'm Kev! Listed below are some of my skills and projects.
 
 ### "Home" Lab
 
-| Local          | Cloudflare | AWS Lightsail Instance [1]                                        | AWS Lightsail Instance [2]                                |
-|----------------|------------|-------------------------------------------------------------------|-----------------------------------------------------------|
-| Win11          | SSL/TLS    | Debian 12 Bookworm                                                | Amazon Linux 2023                                         |
-|                | DNS        | 2GB/2vCPU/60GB                                     | 2GB/2vCPU/60GB                             |
-| - vscode<br>- Docker Engine<br>- WSL2/Ubuntu               |            | - vscode-server<br>- Docker Engine<br>- Red Discord bot<br>- Experimental | - vscode-server<br>- Docker Engine<br>- Traefik Reverse Proxy<br>- Redmine<br>- rclone<br>- littlelink-server |
+|                         | Local                              | Cloudflare   | AWS Lightsail Instance [1]                                         | AWS Lightsail Instance [2]                                                          |
+|-------------------------|------------------------------------|--------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| **Operating System**    | Windows 11                         |              | Debian 12 Bookworm                                                 | Amazon Linux 2023                                                                  |
+| **Specifications**      | -                                  |              | 2GB RAM, 2 vCPUs, 60GB SSD                                         | 2GB RAM, 2 vCPUs, 60GB SSD                                                         |
+| **Tools/Services**      | - VSCode<br>- Docker Engine<br>- WSL2/Ubuntu | - SSL/TLS<br>- DNS<br>- R2 Storage | - VSCode Server<br>- Docker Engine<br>- Red Discord bot<br>- Experimental | - VSCode Server<br>- Docker Engine<br>- Traefik Reverse Proxy<br>- Redmine<br>- rclone<br>- littlelink-server |
