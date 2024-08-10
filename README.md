@@ -2,13 +2,15 @@
 
 Hi, I'm Kev! 🌵 Listed below are active personal projects of mine.
 
-### "Home" Lab
+### 'Home' Lab
 
-|                         | Local                              | AWS Lightsail Instance [1]                                         | AWS Lightsail Instance [2]                                                          | Cloudflare                                 |
-|-------------------------|------------------------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------|
-| **Operating System**    | Windows 11<br>Ubuntu 24.04         | Debian 12 Bookworm                                                 | Amazon Linux 2023                                                                  |                                            |
-| **Specifications**      | -                                  | 2GB/2 vCPUs/60GB                                                   | 2GB/2 vCPUs/60GB                                                                   | Free Tier                                  |
-| **Tools/Services**      | - VSCode Insiders<br>- Docker Engine<br>- WSL2<br>- Ansible<br>- Terraform<br>- Hyper-V<br>- Powershell 7 | - VSCode Server<br>- Docker Engine<br>- Traefik Reverse Proxy<br>- Red Discord bot<br>- Experiments | - VSCode Server<br>- Docker Engine<br>- Traefik Reverse Proxy<br>- Redmine<br>- rclone<br>- littlelink-server | - Domain Registrar<br>- SSL/TLS<br>- DNS<br>- R2 Storage<br>- Web Application Firewall |
+| Environment            | OS                           | Specs                 | Tools/Services                                                 |
+|------------------------|------------------------------|-----------------------|----------------------------------------------------------------|
+| **Local**              | Win 11, Ubuntu 24.04         | -                     | VSCode Insiders, Docker, WSL2, Ansible, Terraform, Hyper-V, PS7 |
+| **AWS Lightsail [1]**  | Debian 12 Bookworm           | 2GB/2vCPU/60GB        | VSCode Server, Docker, Traefik, Red Discord bot, Experiments    |
+| **AWS Lightsail [2]**  | Amazon Linux 2023            | 2GB/2vCPU/60GB        | VSCode Server, Docker, Traefik, Redmine, rclone, littlelink     |
+| **Cloudflare**         | -                            | Free Tier             | Domain Registrar, SSL/TLS, DNS, R2 Storage, WAF                 |
+
 
 ### Skills / Interests
 
