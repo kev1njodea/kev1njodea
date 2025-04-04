@@ -1,5 +1,3 @@
-### About Me
-
 Hi, I'm Kev! 🌵
 
 [![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](#)
